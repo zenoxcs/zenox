@@ -37,21 +37,6 @@ I'm a self-taught backend developer from germany
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
 </div>
 
-## 🧑‍💻 Contribution
-
-<a href="https://github.com/virexpy/virexp">
-  <img src="https://github-readme-stats.vercel.app/api?username=virexpy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats">
-</a>
-<a href="https://github.com/virexpy/virexp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virexpy&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</a>
-
-## 🚀 Activity & Streaks
-
-<a href="https://github.com/virexpy">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virexpy&theme=radical&hide_border=true" alt="Streak Stats">
-</a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ardaxyz&icon=0&color=0)](https://visitcount.itsvg.in)
 
