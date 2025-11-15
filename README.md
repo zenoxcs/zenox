@@ -39,6 +39,3 @@ I'm a self-taught backend developer from germany
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ardaxyz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=virexpy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
